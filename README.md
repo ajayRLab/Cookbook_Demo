@@ -1,2 +1,3 @@
 # learn_chef_apache2
-Cookbook for the Learn Chef tutorials
+
+This basic cookbook configures Apache on Ubuntu.
